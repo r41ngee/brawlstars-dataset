@@ -15,7 +15,7 @@ Skin Name,Brawler,Rarity,Price,Price+,Theme,Archivity
 Университарио El Primo,El Primo,1,29,0,ML,+
 Насьональ El Primo,El Primo,1,29,0,ML,+
 Корританс El Primo,El Primo,1,29,0,ML,+
-Позолоченный Barley,Barley,1,29,0,Outlaws,-
+Golden Barley,Barley,1,29,0,Outlaws,-
 Кукла Jessie,Jessie,1,29,0,My Brawlentine,-
 Классический 8-BIT,8-BIT,1,29,0,Gaming,-
 Гоблин Carl,Carl,1,29,0,Clash of Clans,-
@@ -25,8 +25,8 @@ Skin Name,Brawler,Rarity,Price,Price+,Theme,Archivity
 Суперзвезда Stu,Stu,1,29,0,Stunt Show,-
 Выскочка Emz,Emz,1,29,0,Brawl Academy,-
 Розовая Piper,Piper,1,29,0,Misc,-
-Бабл-гам Bibi,Bibi,1,29,0,Candyland,-
-Божья Коровка Bea,Bea,1,29,0,Animal Kingdom,-
+Bubblegum Bibi,Bibi,1,29,0,Candyland,-
+Ladybug Bea,Bea,1,29,0,Animal Kingdom,-
 Ретро Nani,Nani,1,29,0,Gaming,-
 Edgar в Маске,Edgar,1,29,0,Max Force,-
 Единорожка Bonnie,Bonnie,1,29,0,Candyland,-
@@ -37,7 +37,7 @@ MC Mandy,Mandy,1,29,0,Vibing,-
 Акула Hank,Hank,1,29,0,Deep sea league,-
 Винтажная Пёрл,Pearl,1,29,0,City troubles,-
 Larry and Lawrie Контроль,Larry and Lawrie,1,29,0,Gaming,-
-Эльф Angelo,Angelo,1,29,0,Enchanted woods,-
+Elf Angelo,Angelo,1,29,0,Enchanted woods,-
 Старра,Tara,1,29,0,Misc,-
 GT Max,Max,1,29,0,Misc,-
 Агент П.,Mr. P,1,29,0,City troubles,-
@@ -243,9 +243,9 @@ Shelly PSG,Shelly,2,79,0,PSG,-
 Эль Рудо Примо,El Primo,2,79,0,Misc,-
 Эль Атомико,El Primo,2,79,0,Wasteland,-
 Эль Корасон,El Primo,2,79,0,My Brawlentine,-
-Кленовый Barley,Barley,2,79,0,Starry Meal,-
-Алый Волшебник Barley,Barley,2,79,29,Clash of Clans,-
-Рыцарь-Единорог Barley,Barley,2,79,0,Once Upon,-
+Maple Barley,Barley,2,79,0,Starry Meal,-
+Red Wizard Barley,Barley,2,79,29,Clash of Clans,-
+Unicorn Knight Barley,Barley,2,79,0,Once Upon,-
 Пират Poco,Poco,2,79,0,Tales of the Sea,-
 Хеллоуинская Rosa,Rosa,2,79,0,Halloween,-
 Летняя Jessie,Jessie,2,79,0,Summer of Brawl,-
@@ -273,19 +273,19 @@ Piper CHOCO,Piper,2,79,0,BROWN&FRIENDS,-
 Финансистка Pam,Pam,2,79,0,City troubles,-
 Пещерный Frank,Frank,2,79,0,Misc,-
 Диджей Frank,Frank,2,79,0,Vibing,-
-ЗомБиби,Bibi,2,79,0,Supercell Make,-
-Мстительница Bibi,Bibi,2,79,0,Max Force,-
-Ужасная Bibi,Bibi,2,79,0,Bad Randoms,-
-Нэко Bea,Bea,2,79,0,The Golden Kawaii,-
-Архизлодейка Bea,Bea,2,79,0,Supercell Make,-
+ZomBibi,Bibi,2,79,0,Supercell Make,-
+Bibilante,Bibi,2,79,0,Max Force,-
+Vicious Bibi,Bibi,2,79,0,Bad Randoms,-
+Neko Bea,Bea,2,79,0,The Golden Kawaii,-
+Archvillain Bea,Bea,2,79,0,Supercell Make,-
 Колокольчик Nani,Nani,2,79,0,Bunny Brigade,-
 Молниеносный Edgar,Edgar,2,79,0,Outlaws,-
 Игровой автомат Griff,Griff,2,79,0,Lunar Brawl,-
 Зайка Grom,Grom,2,79,0,Bunny Brigade,-
 Навигатор Colette,Colette,2,79,0,Lunar Brawl,-
 Colette CONY,Colette,2,79,0,BROWN&FRIENDS,-
-Ядоитый Плющ Belle,Belle,2,79,0,Biodome,-
-Крампус Ash,Ash,2,79,0,Dark Winter Tales,-
+Ivy Belle,Belle,2,79,0,Biodome,-
+Krampus Ash,Ash,2,79,0,Dark Winter Tales,-
 Галактическая Lola,Lola,2,79,0,The Worst Bunch,-
 Злой Клоун Sam,Sam,2,79,0,Bizzare Circus,-
 Пляжный Mortis,Mortis,2,79,0,Summer of Brawl,-
@@ -328,7 +328,7 @@ Leon SALLY,Leon,2,79,0,BROWN&FRIENDS,-
 Самодельный Surge,Surge,2,79,0,Misc,-
 Surge-Конг,Surge,2,79,0,Starrs of Brawlywood,-
 Лесной Дух Chester,Chester,2,79,0,Enchanted woods,-
-Волшебник Barley,Barley,2,79,0,Clash of Clans,-
+Wizard Barley,Barley,2,79,0,Clash of Clans,-
 Ведьма Shelly,Shelly,3,149,0,Halloween,+
 Танцовщица Shelly,Shelly,3,149,0,Brawl Pass,-
 Бирюзовая Танцовщица Shelly,Shelly,3,149,?,Brawl Pass,-
@@ -355,8 +355,8 @@ Brock BROWN,Brock,3,149,0,BROWN&FRIENDS,-
 Эль Тигро,El Primo,3,149,0,Lunar Brawl,-
 Эль Дракон Розадо,El Primo,3,149,0,Once Upon,-
 Эль Акулёнок,El Primo,3,149,0,Baby Shark Skins,-
-Barley с плюшками,Barley,3,149,0,Retropolis,-
-Великий Мастер Barley,Barley,3,149,0,Lunar Brawl,-
+Bakesale Barley,Barley,3,149,0,Retropolis,-
+Sway Master Barley,Barley,3,149,0,Lunar Brawl,-
 Менестрель Poco,Poco,3,149,0,My Brawlentine,-
 Трэшер Poco,Poco,3,149,0,Bad Randoms,-
 Десперадо Poco,Poco,3,149,0,Brawl Pass,-
@@ -375,8 +375,8 @@ Poco с видеозаписи,Poco,3,149,0,Starr Park Origins,-
 Тэнгу Майк,Dynamike,3,149,0,The Ayakashi Clan,-
 Султан Майк,Dynamike,3,149,0,Ranked League,-
 Tick SHOOKY,Tick,3,149,0,BT21,-
-8-BIT из салуна,8-BIT,3,0,0,Brawl Pass,-
-8-BIT с привидениями,8-BIT,3,149,0,Enchanted woods,-
+Saloon 8-BIT,8-BIT,3,0,0,Brawl Pass,-
+Haunted House 8-BIT,8-BIT,3,149,0,Enchanted woods,-
 Мажор Rico,Rico,3,149,0,Royals,-
 Попкорн Rico,Rico,3,149,0,Starrs of Brawlywood,-
 Страж Rico,Rico,3,149,0,Sands of Time,-
@@ -410,11 +410,11 @@ Bo-Гор,Bo,3,149,0,Supercell Make,-
 Карнавальная Piper,Piper,3,149,0,Brawlnaval,-
 Новогодний Frank,Frank,3,149,0,Brawlidays,-
 Призрачный Рыцарь Frank,Frank,3,149,0,Supercell Make,-
-Героиня Bibi,Bibi,3,149,0,Lunar Brawl,+
+Heroine Bibi,Bibi,3,149,0,Lunar Brawl,+
 Bibi RJ,Bibi,3,149,0,BT21,-
-Зомби-Пиратка Bibi,Bibi,3,149,0,Cursed Pirates,-
-Мегамуха Bea,Bea,3,149,0,Max Force,-
-True Gold Нэко Bea,Bea,3,149,0,The Golden Kawaii,-
+Cursed Pirate Bibi,Bibi,3,149,0,Cursed Pirates,-
+Mega Beetle Bea,Bea,3,149,0,Max Force,-
+True Gold Neko Bea,Bea,3,149,0,The Golden Kawaii,-
 Nani SALLY,Nani,3,149,0,BROWN&FRIENDS,-
 Орочи Edgar,Edgar,3,149,0,Lunar Brawl,-
 Доктор Edgar,Edgar,3,149,0,Biodome,-
@@ -432,11 +432,11 @@ Edgar TATA,Edgar,3,149,0,BT21,-
 Пинку Мяулетт,Colette,3,0,0,Brawl Pass,-
 Кииро Мяулетт,Colette,3,0,0,Brawl Pass,-
 Мидори Мяулетт,Colette,3,0,0,Brawl Pass,-
-Belle Голдхэнд,Belle,3,0,0,Brawl Pass,+
-Коралл Belle,Belle,3,149,0,Deep sea league,-
-Ниндзя Ash,Ash,3,0,0,Brawl Pass,+
-Печь для пиццы Ash,Ash,3,149,0,Starry Meal,-
-Пиньята Ash,Ash,3,149,0,Ranked League,-
+Belle Goldhand,Belle,3,0,0,Brawl Pass,+
+Coral Belle,Belle,3,149,0,Deep sea league,-
+Ninja Ash,Ash,3,0,0,Brawl Pass,+
+Pizza Oven Ash,Ash,3,149,0,Starry Meal,-
+Pinata Ash,Ash,3,149,0,Ranked League,-
 Бунтарка Lola,Lola,3,0,0,Brawl Pass,+
 Кицуне Lola,Lola,3,149,0,The Ayakashi Clan,-
 Лихая Lola,Lola,3,149,0,Ranked League,-
@@ -498,8 +498,8 @@ Sandy KOYA,Sandy,3,149,0,BT21,-
 Палладин Surge-Меха,Surge,3,0,0,Brawl Pass,+
 Кракен Surge,Surge,3,149,0,Supercell Make,-
 Джинн Surge,Surge,3,149,0,Sands of Time,-
-Amber Де Ла Вега,Amber,3,149,0,Outlaws,-
-Снежная королева Amber,Amber,3,149,0,Dark Winter Tales,-
+Amber de La Vega,Amber,3,149,0,Outlaws,-
+Frost Queen Amber,Amber,3,149,0,Dark Winter Tales,-
 Монстр-тракер Meg,Meg,3,149,0,Stunt Show,-
 Дух ягуара Meg,Meg,3,149,0,Ranked League,-
 Локи Chester,Chester,3,149,0,Ranked League,-
@@ -527,14 +527,14 @@ Amber Де Ла Вега,Amber,3,149,0,Outlaws,-
 Какашка Spike,Spike,4,199,0,April Fool's,-
 Белый волк Leon,Leon,4,199,0,Halloween,-
 Мэгалодон,Meg,4,199,0,Cursed Pirates,-
-Геймерша Bibi,Bibi,4,199,0,Lunar Brawl,-
+Gamer Bibi,Bibi,4,199,0,Lunar Brawl,-
 Nita с Бивнями,Nita,5,299,0,Bizzare Circus,-
 Colt-меха,Colt,5,299,0,Mecha Squad,-
 Образцовый Colt-меха,Colt,5,299,49,Mecha Squad,-
 Отступник Colt-меха,Colt,5,299,49,Mecha Squad,-
 Робомайк,Dynamike,5,299,0,Max Force,-
-Вирусный 8-BIT,8-BIT,5,299,0,Lunar Brawl,+
-Антивирус 8-BIT,8-BIT,5,299,0,Lunar Brawl,-
+Virus 8-BIT,8-BIT,5,299,0,Lunar Brawl,+
+Antivirus 8-BIT,8-BIT,5,299,0,Lunar Brawl,-
 Bo-меха,Bo,5,299,0,Mecha Squad,-
 Светлый Bo-меха,Bo,5,299,49,Mecha Squad,-
 True Gold Bo-меха,Bo,5,299,49,Mecha Squad,-
@@ -542,7 +542,7 @@ True Gold Bo-меха,Bo,5,299,49,Mecha Squad,-
 Злая Королева Pam,Pam,5,299,0,Once Upon,-
 Синий Король Frank,Frank,5,299,0,Clash of Clans,-
 Красный Король Frank,Frank,5,299,0,Clash of Clans,-
-Тор Bibi,Bibi,5,299,0,Northern Saga,-
+Thor Bibi,Bibi,5,299,0,Northern Saga,-
 Edgar-Меха,Edgar,5,299,0,Mecha Squad,-
 Edgar-Меха Модель 00,Edgar,5,299,49,Mecha Squad,-
 Edgar-Меха Модель 01,Edgar,5,299,49,Mecha Squad,-
