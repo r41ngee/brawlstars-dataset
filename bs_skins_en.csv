@@ -11,7 +11,7 @@ Skin Name,Brawler,Rarity,Price,Price+,Theme,Archivity
 Атлетико Насьональ Colt,Colt,1,29,0,ML,+
 Ривер Плейт Colt,Colt,1,29,0,ML,+
 Клуб Америка Colt,Colt,1,29,0,ML,+
-ЗомБрок,Brock,1,29,0,Halloween,-
+ZomBrock,Brock,1,29,0,Halloween,-
 Университарио El Primo,El Primo,1,29,0,ML,+
 Насьональ El Primo,El Primo,1,29,0,ML,+
 Корританс El Primo,El Primo,1,29,0,ML,+
@@ -21,7 +21,7 @@ Golden Barley,Barley,1,29,0,Outlaws,-
 Гоблин Carl,Carl,1,29,0,Clash of Clans,-
 Строительница Jacky,Jacky,1,29,0,City troubles,-
 Бойскаут Gus,Gus,1,29,0,Misc,-
-Воин Bo,Bo,1,29,0,Rumble Jungle Heroes,-
+Warrior Bo,Bo,1,29,0,Rumble Jungle Heroes,-
 Суперзвезда Stu,Stu,1,29,0,Stunt Show,-
 Выскочка Emz,Emz,1,29,0,Brawl Academy,-
 Розовая Piper,Piper,1,29,0,Misc,-
@@ -29,8 +29,8 @@ Bubblegum Bibi,Bibi,1,29,0,Candyland,-
 Ladybug Bea,Bea,1,29,0,Animal Kingdom,-
 Ретро Nani,Nani,1,29,0,Gaming,-
 Edgar в Маске,Edgar,1,29,0,Max Force,-
-Единорожка Bonnie,Bonnie,1,29,0,Candyland,-
 ФутБонни,Bonnie,1,29,0,Golden Brawl Ball,-
+Unicorn Bonnie,Bonnie,1,29,0,Candyland,-
 Мишка Sam,Sam,1,29,0,My Brawlentine,-
 MC Mandy,Mandy,1,29,0,Vibing,-
 Технарь Maisie,Maisie,1,29,0,Cyberbrawl,-
@@ -219,10 +219,10 @@ True Gold Kit,Kit,1,769,1153,True Gold Skins,-
 Билли Kit,Kit,1,29,0,Tales of the Sea,-
 Принцесса Shelly,Shelly,2,0,0,Brawl Pass,+
 Ганфайтер Colt,Colt,2,0,0,Brawl Pass,+
-Король варваров Bull,Bull,2,0,0,Clash of Clans,+
-Б-800,Bull,2,0,0,Brawl Pass,+
 Суперрейнджер Brock,Brock,2,0,0,Brawl Pass,+
-Ретро Brock,Brock,2,0,0,Anniversary,+
+Barbarian King Bull,Bull,2,0,0,Clash of Clans,+
+B-800,Bull,2,0,0,Brawl Pass,+
+Retro Brock,Brock,2,0,0,Anniversary,+
 Poco Старр,Poco,2,0,0,Brawl Pass,+
 Майор Rosa,Rosa,2,0,0,Brawl Pass,+
 Красный Дракон Jessie,Jessie,2,0,0,Chinese Brawl Stars,+
@@ -238,8 +238,8 @@ Shelly PSG,Shelly,2,79,0,PSG,-
 Тачдаун Bull,Bull,2,79,0,Super Brawl,-
 Полузащитник Bull,Bull,2,79,29,Super Brawl,-
 Викинг Bull,Bull,2,79,0,Northern Saga,-
-Пляжный Brock,Brock,2,79,0,Summer of Brawl,-
 Брейкдансер Brock,Brock,2,79,0,Vibing,-
+Beach Brock,Brock,2,79,0,Summer of Brawl,-
 Эль Рудо Примо,El Primo,2,79,0,Misc,-
 Эль Атомико,El Primo,2,79,0,Wasteland,-
 Эль Корасон,El Primo,2,79,0,My Brawlentine,-
@@ -346,8 +346,8 @@ Nita Красный нос,Nita,3,149,0,Brawlidays,+
 Бродячий кот Bull,Bull,3,149,0,License to Brawl,-
 Bull MANG,Bull,3,149,0,BROWN&FRIENDS,-
 Кунг-Фу Brock,Brock,3,149,0,Lunar Brawl,-
-Стритрейсер Brock,Brock,3,149,0,Retropolis,-
-Почтальон Brock,Brock,3,149,0,Ranked League,-
+Streetracer Brock,Brock,3,149,0,Retropolis,-
+Postal Brock,Brock,3,149,0,Ranked League,-
 Brock BROWN,Brock,3,149,0,BROWN&FRIENDS,-
 Эль Рей Примо,El Primo,3,149,0,Royals,-
 Эль BROWN,El Primo,3,149,0,BROWN&FRIENDS,-
@@ -397,9 +397,9 @@ Haunted House 8-BIT,8-BIT,3,149,0,Enchanted woods,-
 Аквабайкер Jacky,Jacky,3,149,0,Ranked League,-
 Jacky COOKY,Jacky,3,149,0,BT21,-
 Чемпион мира Gus,Gus,3,149,0,World Championship,-
-Bo-Гор,Bo,3,149,0,Supercell Make,-
-Инфернальный Bo,Bo,3,149,0,Supercell Make,-
-Оса Bo,Bo,3,149,0,Ranked League,-
+Chorus Bo,Bo,3,149,0,Supercell Make,-
+Underworld Bo,Bo,3,149,0,Supercell Make,-
+Wasp Bo,Bo,3,149,0,Ranked League,-
 Суперфанатка Emz,Emz,3,149,0,Gift Shop,-
 Диджей 3.M.Z.,Emz,3,149,0,Supercell Make,-
 Всадник без головы Stu,Stu,3,149,0,Halloween,-
@@ -510,13 +510,13 @@ Frost Queen Amber,Amber,3,149,0,Dark Winter Tales,-
 Китбоксер Тёмная Лапа,Kit,3,0,0,Brawl Pass,-
 Китбоксер True Gold Лапа,Kit,3,0,0,Brawl Pass,-
 Колдунья Shelly,Shelly,4,199,0,Halloween,-
-Зевс Brock,Brock,4,199,0,Legends of Olymp,-
+Zeus Brock,Brock,4,199,0,Legends of Olymp,-
 Эль Квотербек,El Primo,4,199,0,Super Brawl,-
 Скади Jessie,Jessie,4,199,0,Northern Saga,-
 Майк с плесенью,Dynamike,4,199,0,Club League,-
 Цербер Tick,Tick,4,199,0,Legends of Olymp,-
-Арджуна Bo,Bo,4,199,0,Warrior's Journey,-
-Верховный Bo,Bo,4,199,0,Warrior's Journey,-
+Brother Bo,Bo,4,199,0,Warrior's Journey,-
+Supreme Bo,Bo,4,199,0,Warrior's Journey,-
 Ванара Frank,Frank,4,199,0,Warrior's Journey,-
 Арес Nani,Nani,4,199,0,Legends of Olymp,-
 Вор Edgar,Edgar,4,199,0,Sands of Time,-
@@ -535,9 +535,9 @@ Colt-меха,Colt,5,299,0,Mecha Squad,-
 Робомайк,Dynamike,5,299,0,Max Force,-
 Virus 8-BIT,8-BIT,5,299,0,Lunar Brawl,+
 Antivirus 8-BIT,8-BIT,5,299,0,Lunar Brawl,-
-Bo-меха,Bo,5,299,0,Mecha Squad,-
-Светлый Bo-меха,Bo,5,299,49,Mecha Squad,-
-True Gold Bo-меха,Bo,5,299,49,Mecha Squad,-
+Mecha Bo,Bo,5,299,0,Mecha Squad,-
+Light Mecha Bo,Bo,5,299,49,Mecha Squad,-
+Golden Mecha Bo,Bo,5,299,49,Mecha Squad,-
 Спортсмен Stu,Stu,5,299,0,Brawl Academy,-
 Злая Королева Pam,Pam,5,299,0,Once Upon,-
 Синий Король Frank,Frank,5,299,0,Clash of Clans,-
