@@ -5,7 +5,7 @@ Colt,1,Six-shooters,Bullet Storm,2800,5600,2160,4320
 Bull,1,Double-barrel,Bulldozer,5000,10000,2200,4400
 Brock,1,Rockin' Rocket,Rocket Rain,2400,4800,1160,2320
 El Primo,1,Fists of Fury,Flying Elbow Drop,6000,12000,1520,3040
-Barley,1,Undiluted,Last Call,2400,4800,760,1520
+Barley,1,Undiluted,Last Call,2400,4800,800,1600
 Poco,1,Power chord,Encore,3700,7400,760,1520
 Rosa,1,Hands of Stone,Strong Stuff,5000,10000,1380,2760
 Jessie,2,Shock Rifle,Scrappy!,3000,6000,1060,2120
@@ -26,7 +26,7 @@ Pam,3,Scrapstorm,Mama's Kiss,4800,9600,2340,4680
 Frank,3,Hammer Hit,Stunning Blow,7000,14000,1240,2480
 Bibi,3,Three Strikes,Spitball,4800,9600,1400,2800
 Bea,3,Big Sting,Iron Hive,2500,5000,800,1600
-Nani,3,Trigger-Nometry,Manual Override,2400,4800,2400,4800
+Nani,3,Trigger-Nometry,Manual Override,2400,4800,2220,4440
 Edgar,3,Fight Club,Vault,3300,6600,1080,2160
 Griff,3,Coin Toss,Cashback,3400,6800,2520,5040
 Grom,3,Bud Go Boom!,Grom Bomb,2800,5600,1060,2120
@@ -39,11 +39,11 @@ Lola,3,Diamond Eyes,Megalomaniac,3800,7600,1560,3120
 Sam,3,Heavy Haymakers,Knuckle Busters,5400,10800,1600,3200
 Mandy,3,Candy Dispenser,Sugar Ray,2800,5600,1300,2600
 Maisie,3,Pressure Rocket,Shockwave,3600,7200,1280,2560
-Hank,3,Baloon Blast,Fish Torpedoes,5800,11600,2100,4200
+Hank,3,Baloon Blast,Fish Torpedoes,5400,10800,2100,4200
 Pearl,3,Hot Cookies,Let Out Some Steam,3900,7800,1560,3120
 Larry and Lawrie,3,Ticket Dispenser,Call For Backup,3000,6000,1400,2800
 Angelo,3,Take Aim,Welcome to the Swamp,3000,6000,2200,4400
-Mortis,4,Shovel Swing,Life Blood,3800,7600,940,1880
+Mortis,4,Shovel Swing,Life Blood,3800,7600,1000,2000
 Tara,4,Triple Tarot,Gravity,3100,6200,1440,2880
 Gene,4,Smoke Blast,Magic Hand,3600,7200,1000,2000
 Max,4,Faster Blaster,Let's Go!,3300,6600,1280,2560
@@ -76,6 +76,6 @@ Amber,5,Dragon's Breath,Torch 'Em!,3200,6400,2100,4200
 Meg,5,Target Acquired/Crowd Control,Mega Machina/Feel the Steel,3000,6000,1140,2280
 Surge,5,Juice of Justice,Party Tricks,3300,6600,1180,2360
 Chester,5,Cap and Bells,Candy Popper/Jawbreak/Salmiakki/Pop Rocks/Strong Mint,3700,7400,1920,3840
-Cordelius,5,Mushrooms,This is my Domain,3200,6400,1460,2920
+Cordelius,5,Mushrooms,This is my Domain,3200,6400,1400,2800
 Kit,5,Claws/Yarn balls,Carry Me,3000,6000,800,1600
 Draco,5,Lance Stab,Dragon Solo,5500,11000,600,1200
